@@ -1,0 +1,9 @@
+# Blog virtual environment 
+./blog_venv 
+
+# Python
+__pycache__/
+
+# Django
+db.sqlite3
+media/
